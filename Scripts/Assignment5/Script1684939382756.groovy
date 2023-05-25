@@ -18,6 +18,6 @@ p = driver.findElements(By.xpath("//*[@class='G43f7e']//li")).size()
 println p
 
 for(i=1;i<=p;i++) {
-	q=driver.findElement(By.xpath("//*[@class='G43f7e']//li["+i+"]")).getText()
-	println q
+	result=driver.findElement(By.xpath("//*[@class='G43f7e']//li["+i+"]")).getText()
+	println result
 }
