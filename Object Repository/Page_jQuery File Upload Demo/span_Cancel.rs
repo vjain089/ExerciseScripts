@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancel</name>
+   <tag></tag>
+   <elementGuidId>b24da746-3d3c-4898-afd2-9f16e6dbaae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='fileupload']/table/tbody/tr/td[4]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > button.btn.btn-warning.cancel > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74fb985c-c3ab-4006-ad6c-7d3da6062a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>ae0e2747-2f31-433b-9c1b-a1ce4f614be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fileupload&quot;)/table[@class=&quot;table table-striped&quot;]/tbody[@class=&quot;files&quot;]/tr[@class=&quot;template-upload fade in&quot;]/td[4]/button[@class=&quot;btn btn-warning cancel&quot;]/span[1]</value>
+      <webElementGuid>e9087fa0-b579-415e-9758-a1c2bca70178</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fileupload']/table/tbody/tr/td[4]/button[2]/span</value>
+      <webElementGuid>68151e33-2f94-4c70-a512-acd120fdcbd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/following::span[1]</value>
+      <webElementGuid>bdb4b5f5-0bc8-4bb9-a1a3-ef90f45f7f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File type not allowed'])[1]/following::span[2]</value>
+      <webElementGuid>8460b48e-fb9b-405e-a1f8-0ab5cb3d4f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get 10 free Adobe Stock photos. Start downloading amazing royalty-free stock photos today.'])[1]/preceding::span[1]</value>
+      <webElementGuid>4793f671-4683-4708-84fb-bb06649178cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ads via Carbon'])[1]/preceding::span[2]</value>
+      <webElementGuid>a1cd8c47-386a-444f-a8c6-cb34651a8b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>3c8e4f5b-ccc5-4b21-bfbe-6114124f4b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/button[2]/span</value>
+      <webElementGuid>d967e9a3-7f03-42f3-a0bc-ed49c68da1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>915cc862-1f24-432f-a985-25cda9213eda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

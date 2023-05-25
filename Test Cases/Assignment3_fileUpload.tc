@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assignment3_fileUpload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46edcf40-c4b1-453a-bc7f-e5cbfeb9b73d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a93bc645-200b-4f5c-a407-5c5b5b17b6ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/Users/vaibhavjain/Desktop/Application not displayed.png'</defaultValue>
+      <description></description>
+      <id>a93bc645-200b-4f5c-a407-5c5b5b17b6ed</id>
+      <masked>false</masked>
+      <name>File_Path</name>
+   </variable>
+</TestCaseEntity>
