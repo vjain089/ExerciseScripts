@@ -12,7 +12,6 @@ WebDriver driver = DriverFactory.getWebDriver()
 
 driver.findElement(By.name("q")).sendKeys("Katalon Studio")
 
-//WebDriverWait wait = DriverFactory.wa
 
 p = driver.findElements(By.xpath("//*[@class='G43f7e']//li")).size()
 
