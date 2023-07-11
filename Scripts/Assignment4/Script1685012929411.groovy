@@ -21,6 +21,4 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_DEMOQA/select_R
 
 WebUI.closeBrowser()
 
-//open browser and go to url 'https://demoqa.com/select-menu'
-// Open browser and navigate to URL
 WebUI.openBrowser('https://demoqa.com/select-menu')
