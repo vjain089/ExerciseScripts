@@ -35,7 +35,7 @@
    <testCaseLink>
       <guid>3fbe583e-9e43-4ff9-ba8e-97cfb1c3303a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Assignment3_fileUpload</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>

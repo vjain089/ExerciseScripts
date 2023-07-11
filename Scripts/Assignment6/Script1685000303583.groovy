@@ -24,5 +24,6 @@ for (i = 2; i <= rowscount; i++) {
         result_data = driver.findElement(By.xpath(((('//*[@id=\'customers\']//tr[' + i) + ']/td[') + j) + ']')).getText()
 
         println(result_data)
+
     }
 }
